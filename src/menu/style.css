@@ -1,0 +1,11 @@
+.navbar-quay {
+  left: 345px;
+}
+
+.navbar-quay a {
+  color: white;
+}
+
+.navbar-quay a:hover {
+  color: #7ae801;
+}
